@@ -66,3 +66,15 @@ firebase deploy #deploys checkedout branch
 #### App Wireframe Overview 
 
 ![System_Overview](docs/images/wireframe.jpg)
+
+
+## Kwaku Ankobia : Key Contributions 
+### Designed the architecture and react components for the 'LookPage' and 'LookInfo' page. 
+
+![LookPage](docs/images/Lookinfo.jpg)
+![LookPage](docs/images/lookpage2.jpg)
+
+
+## [Unit Tests](https://github.com/k-ankobia/fashion-finder/blob/dev/spec/LookPage.spec.js)  
+## [Feautre Tests ](https://github.com/k-ankobia/fashion-finder/tree/dev/cypress/integration)  
+
