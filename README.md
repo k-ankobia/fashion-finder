@@ -13,6 +13,18 @@ The team created a beautiful, simple-to-use and responsive application in React.
 <br />
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+#### App Wireframe Overview 
+
+![System_Overview](docs/images/wireframe.jpg)
+
+
+### Kwaku Ankobia : Key Contributions 
+##### Designed the architecture and react components for the 'LookPage' and 'LookInfo' page. 
+
+![LookPage](docs/images/Lookinfo.jpg)
+![LookPage](docs/images/lookpage2.jpg)
+ 
+
 ## Getting Started
 
 Clone repository: ` git clone git@github.com:rtfdm/fashion-finder.git`.
@@ -63,18 +75,3 @@ Once installed, login and deploy:
 firebase login #enter details
 firebase deploy #deploys checkedout branch
 ```
-#### App Wireframe Overview 
-
-![System_Overview](docs/images/wireframe.jpg)
-
-
-## Kwaku Ankobia : Key Contributions 
-### Designed the architecture and react components for the 'LookPage' and 'LookInfo' page. 
-
-![LookPage](docs/images/Lookinfo.jpg)
-![LookPage](docs/images/lookpage2.jpg)
-
-
-## [Unit Tests](https://github.com/k-ankobia/fashion-finder/blob/dev/spec/LookPage.spec.js)  
-## [Feautre Tests ](https://github.com/k-ankobia/fashion-finder/tree/dev/cypress/integration)  
-
